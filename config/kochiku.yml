@@ -4,6 +4,6 @@ ruby:
  - 2.1.2
 
 targets:
-  - type: spec
-    glob: spec/**/*_spec.rb
+  - type: unit
+    glob: test/**/*_test.rb
     workers: 1
