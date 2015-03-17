@@ -12,7 +12,7 @@ domain_name: 'example.com'
 use_https: false
 
 # Host name where Kochiku is serving web pages.
-kochiku_host: 'kochiku.example.com'
+kochiku_host: '10.211.55.66'
 
 # If you commit with hitch/git-pair, etc, set this in order to send email to each person in the pair.
 # For example, github+joe+bob@example.com will turn into emails to joe@example.com and bob@example.com
