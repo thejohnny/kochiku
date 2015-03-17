@@ -5,9 +5,6 @@ public/uploads
 public/log_files
 vendor/ruby
 
-# file with the real db config for production
-/config/database.production.yml
-
 # application settings
 /config/application.yml
 robot-password
